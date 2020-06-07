@@ -1,0 +1,16 @@
+[
+{
+  "modid": "zoom",
+  "name": "Zoom",
+  "description": "A recreation of the CSGO zoom in Minecraft, along with a better zoom alternative. Crafted with love and tears.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Slackin' Jack#0001"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
